@@ -1,6 +1,6 @@
 # newrepo
 THe new project 
 <br>
-Author : Anushka Jain
+Author : Anushka A Jain
 <br>
 My First Depository
